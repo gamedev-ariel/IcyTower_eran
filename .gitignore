@@ -1,0 +1,18 @@
+# Unity specific
+Library/
+Temp/
+obj/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.log
+*.meta
+Build/
+Builds/
+.vs/
+
+# Git specific
+.DS_Store
+Thumbs.db
